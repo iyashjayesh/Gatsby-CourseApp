@@ -7,7 +7,7 @@ import SupermanSection from "../components/globalComponents/SupermanSection"
 import Infoblock from "../components/globalComponents/Infoblock"
 import DualInfoblock from "../components/globalComponents/DualInfoblock"
 
-const IndexPage = ({ data }) => (
+const AboutPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
     <SupermanSection 
@@ -23,7 +23,7 @@ const IndexPage = ({ data }) => (
 
 export const query = graphql `
 {
-  img: file(relativePath: { eq: "heromain.png" }) {
+  img: file(relativePath: { eq: "about.png" }) {
     childImageSharp{
       fluid{
         ...GatsbyImageSharpFluid_tracedSVG
@@ -33,4 +33,4 @@ export const query = graphql `
 }
 `
 
-export default IndexPage
+export default AboutPage
