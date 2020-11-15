@@ -11,24 +11,24 @@ class Navbar extends Component {
         menus: [{
             id:1,
             text:"Home",
-            url:'./',
+            url:'/',
         },{
             id:2,
             text:"About Us",
-            url:'./',
+            url:'/about',
         },{
             id:3,
             text:"Services",
-            url:'./',
+            url:'/services',
         },{
             id:4,
             text:"Contact Us",
-            url:'./',
+            url:'/contact',
         }]
     }
 
     myToggler = () => {
-        this.state.navbarSate ? this.setState({
+        this.state.navbarState ? this.setState({
             navbarState: false,
             navbarClass:"collapse navbar-collapse"
         }) : this.setState({

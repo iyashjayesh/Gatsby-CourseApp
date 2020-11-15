@@ -6,18 +6,19 @@ import SEO from "../components/seo"
 import SupermanSection from "../components/globalComponents/SupermanSection"
 import Infoblock from "../components/globalComponents/Infoblock"
 import DualInfoblock from "../components/globalComponents/DualInfoblock"
+import Teamphotosection from "../components/About/Teamphotosection"
 
 const AboutPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
     <SupermanSection 
       img={data.img.childImageSharp.fluid}
-      title="I write Code" 
-      subtitle="yashchauhan.engineer" 
-      supermanClass="superman-background" 
+      title="About Us" 
+      supermanClass="about-background" 
     />
-    <Infoblock heading="About Us"/>
-    <DualInfoblock heading="Our Team" src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>
+    <DualInfoblock heading="A message from CEO" src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>
+    <Infoblock heading="About Vision"/>  
+    <Teamphotosection/>
   </Layout>
 )
 
