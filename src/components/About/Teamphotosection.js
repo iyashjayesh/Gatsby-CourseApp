@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function Teamphotosection() {
     return (
+        
         <div className="row">
             <div className="col-10 col-sm-10 mx-auto">
                 <div className="card-group">

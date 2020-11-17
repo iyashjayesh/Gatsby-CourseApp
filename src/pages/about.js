@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import SupermanSection from "../components/globalComponents/SupermanSection"
 import Infoblock from "../components/globalComponents/Infoblock"
 import DualInfoblock from "../components/globalComponents/DualInfoblock"
+import Heading from "../components/globalComponents/Heading"
 import Teamphotosection from "../components/About/Teamphotosection"
 
 const AboutPage = ({ data }) => (
@@ -18,6 +19,7 @@ const AboutPage = ({ data }) => (
     />
     <DualInfoblock heading="A message from CEO" src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>
     <Infoblock heading="About Vision"/>  
+    <Heading title="Our Team"/>
     <Teamphotosection/>
   </Layout>
 )
