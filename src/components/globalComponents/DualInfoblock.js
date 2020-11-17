@@ -10,9 +10,7 @@ export default function DualInfoblock({heading, src}) {
                     <div className="row">
                         <div className="col-8 mx-auto">
                             <p className="lead text-white mb-5">
-                               Yash is a programmer Yash is a programmer Yash is a programmer
-                               Yash is a programmer Yash is a programmer Yash is a programmer
-                               Yash is a programmer!     
+                                Ullamco fugiat aliqua Lorem laborum eu irure sunt dolore amet occaecat id excepteur. Duis commodo voluptate eiusmod incididunt officia irure sint. Cupidatat minim aute quis consequat. Magna id voluptate deserunt qui Lorem proident do nulla voluptate sint incididunt consectetur reprehenderit.  
                             </p>
                         </div>
                         <div className="col-4">

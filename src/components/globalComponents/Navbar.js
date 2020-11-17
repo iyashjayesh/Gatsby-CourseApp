@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
-import logo from '../../images/logo.png'
+import logo from '../../images/logoyash.png'
 import {FaCartArrowDown} from 'react-icons/fa'
 
 class Navbar extends Component {
@@ -42,7 +42,7 @@ class Navbar extends Component {
             <nav>
                 <div className="navbar navbar-expand-sm bg-theme text-white">
                     <Link to="/" className="navbar-brand ml-5">
-                        <img src={logo} alt="Logo goes here" width="40px"/>
+                        <img src={logo} alt="Logo goes here" width="120px"/>
                     </Link>
                     <button className="navbar-toggler" type="button" onClick={this.myToggler}>
                     <span className="text-white">menu</span>

@@ -36,7 +36,7 @@ export default class Coursecart extends Component {
                                         data-item-price={node.price}
                                         data-item-url="https://yash-react-course-app.netlify.app/"
                                         data-item-image={node.image.fixed.src}
-                                        className="btn btn-warning snipcart-add-item">Join Now</button>
+                                        className="btn btn-warning snipcart-add-item">Purchase</button>
                                     </div>
                                 </div>
                             )
