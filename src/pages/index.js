@@ -15,7 +15,7 @@ const IndexPage = ({ data }) => (
     <SupermanSection 
       img={data.img.childImageSharp.fluid}
       title="I write Code" 
-      subtitle="yashchauhan.engineer" 
+      subtitle="Yash Chauhan | @iyashjayesh" 
       supermanClass="superman-background" 
     />
     <Infoblock heading="About Us"/>
