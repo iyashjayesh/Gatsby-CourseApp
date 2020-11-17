@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import SupermanSection from "../components/globalComponents/SupermanSection"
 import Infoblock from "../components/globalComponents/Infoblock"
 import Contact from "../components/Contact/contact"
+import Teamphotosection from "../components/About/Teamphotosection"
 
 const ContactPage = ({ data }) => (
   <Layout>

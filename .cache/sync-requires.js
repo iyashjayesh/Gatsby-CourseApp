@@ -8,6 +8,7 @@ exports.components = {
   "component---cache-dev-404-page-js": hot(preferDefault(require("D:\\React-projects\\react-course\\courseproject\\.cache\\dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("D:\\React-projects\\react-course\\courseproject\\src\\pages\\404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("D:\\React-projects\\react-course\\courseproject\\src\\pages\\about.js"))),
+  "component---src-pages-contact-js": hot(preferDefault(require("D:\\React-projects\\react-course\\courseproject\\src\\pages\\contact.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("D:\\React-projects\\react-course\\courseproject\\src\\pages\\index.js"))),
   "component---src-pages-using-typescript-tsx": hot(preferDefault(require("D:\\React-projects\\react-course\\courseproject\\src\\pages\\using-typescript.tsx")))
 }
