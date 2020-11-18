@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="https://yash-react-course-app.netlify.app/">
-    <img alt="Gatsby" src="![logoyash](https://user-images.githubusercontent.com/53042582/99503706-89e82580-29a4-11eb-9de3-515f5fed33bb.png)
-" width="60" />
-  </a>
-</p>
+![logoyash](https://user-images.githubusercontent.com/53042582/99503706-89e82580-29a4-11eb-9de3-515f5fed33bb.png)
+
 <h1 align="center">
   Gatsby's default starter
 </h1>
