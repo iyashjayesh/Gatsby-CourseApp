@@ -18,7 +18,7 @@
 - CD Webhooks
 - CI/CD with git
 
-#### 🧐 Link to the Website: https://yash-react-course-app.netlify.app/
+#### 🧐 Link to the Website: https://yash-gatsby-course-app.netlify.app/
 
 ## 💫 Video Demo 
 
