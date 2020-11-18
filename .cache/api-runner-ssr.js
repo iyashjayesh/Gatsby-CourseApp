@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('D:/React-projects/react-course/courseproject/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/logo.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"93326a916609381db6a9b85ae83f3f7f"},
+      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/logoyash.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"ef82305d41ce10ff4f19362285ba41fa"},
     },{
       plugin: require('D:/React-projects/react-course/courseproject/node_modules/gatsby-plugin-snipcart/gatsby-ssr'),
       options: {"plugins":[],"apiKey":"MjAwNGNmYTEtZmMwMi00ZGQzLTg0ZTAtYmI0OWY3OTcwYjg3NjM3NDEwNDA5ODc0MTcxNzE1","autopop":true},
