@@ -4,8 +4,6 @@
   Gatsby CourseApp Project
 </h1>
 
-### Project Abstract: 
-
 ### 🚀 Technical Stack:
 - Programming Language: JavaScript
 - Server-Side Language: GraphQL
